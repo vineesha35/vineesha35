@@ -89,7 +89,7 @@
 | <img src="https://leetcard.jacoblin.cool/Vineesha90?theme=dark&ext=activity&height=400" width="400" alt="LeetCode Activity" /> | <img src="https://leetcard.jacoblin.cool/Vineesha90?theme=dark&ext=heatmap&height=400" width="400" alt="LeetCode Heatmap" /> |
 
 <p>
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge 1" width="150" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="LeetCode Badge 2" width="150" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="LeetCode Badge 3" width="150" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge 1" width="150" />
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge 2" width="150" />
+ 
 </p>
